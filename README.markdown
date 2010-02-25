@@ -1,7 +1,7 @@
 
 # Pinboard.in To Delicious Shover
 
-http://github.com/tedroden
+[github.com/tedroden/Pinboard-to-Delicious](http://github.com/tedroden/Pinboard-to-Delicious/)
 
 I have always used delicious, but delicious is getting worse and worse. So I recently started using http://pinboard.in as well. I've configured pinboard to automatically import the bookmarks from delicious but recently decided that I wanted to go the other way. I want to use pinboard as my main bookmarking service and push them to delicious as a backup. 
 
@@ -33,4 +33,4 @@ Do whatever you want with this... It's not my fault if it kills you or makes you
 
 ## Thanks!
 
-&copy; 2010 [Ted Roden](http://tedroden.com) [@tedroden](http://twitter.com/tedroden) [On github](http://github.com/tedroden)
+&copy; 2010 [Ted Roden](http://tedroden.com) [@tedroden](http://twitter.com/tedroden) and on [github](http://github.com/tedroden)
